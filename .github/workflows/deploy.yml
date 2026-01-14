@@ -3,13 +3,13 @@ name: Deploy Vue.js to GitHub Pages
 on:
   push:
     branches:
-      - main   # change to your actual default branch
+      - master   # keep this since your default branch is master
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # <-- critical for gh-pages push
+      contents: write   # <-- REQUIRED so gh-pages push works
 
     steps:
       - name: Checkout code
@@ -21,7 +21,7 @@ jobs:
           node-version: '20.19.0'
 
       - name: Install dependencies
-        run: npm ci   # faster & cleaner than npm install
+        run: npm ci   # cleaner than npm install
 
       - name: Build project
         run: npm run build
