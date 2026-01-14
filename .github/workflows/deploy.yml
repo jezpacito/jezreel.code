@@ -3,7 +3,7 @@ name: Deploy Vue.js to GitHub Pages
 on:
   push:
     branches:
-      - master   # or 'main' if that's your branch
+      - master
 
 jobs:
   build-and-deploy:
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '22'
+          node-version: '20.19.0'   # upgrade Node for Vite
 
       - name: Install dependencies
         run: npm install
@@ -29,4 +29,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-
