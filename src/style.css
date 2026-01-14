@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Merriweather:wght@300;400;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-white text-harvard-navy font-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+}
+
+@layer components {
+  /* Section styling - Larger spacing */
+  .section {
+    @apply py-3 px-6 md:px-12 max-w-6xl mx-auto;
+  }
+  
+  /* Traditional border divider */
+  .section-divider {
+    @apply border-t border-harvard-navy/20 my-2;
+  }
+  
+  /* Professional link styling */
+  .link-underline {
+    @apply relative inline-block text-harvard-crimson transition-colors duration-300 font-medium;
+  }
+  
+  .link-underline::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-full h-[2px] bg-harvard-crimson transform scale-x-100 transition-transform duration-300;
+  }
+  
+  .link-underline:hover::after {
+    @apply scale-x-0;
+  }
+  
+  .link-underline:hover {
+    @apply text-harvard-navy;
+  }
+  
+  /* Skill pill */
+  .skill-pill {
+    @apply inline-block px-2 py-1 border border-harvard-navy/30 text-xs rounded-sm transition-all duration-200 bg-white;
+  }
+  
+  .skill-pill:hover {
+    @apply border-harvard-crimson bg-harvard-crimson/5 transform -translate-y-0.5 shadow-sm;
+  }
+  
+  /* Project card */
+  .project-card {
+    @apply border border-harvard-navy/20 p-6 transition-all duration-300 bg-white;
+  }
+  
+  .project-card:hover {
+    @apply border-harvard-crimson shadow-xl transform -translate-y-1;
+  }
+  
+  /* Gallery item hover effect */
+  .gallery-item {
+    @apply transition-all duration-300;
+  }
+  
+  .gallery-item:hover {
+    @apply shadow-2xl transform -translate-y-1;
+  }
+  
+  /* Fade in animation */
+  .fade-in {
+    animation: fadeIn 0.8s ease-out;
+  }
+  
+  /* Slide up animation */
+  .slide-up {
+    animation: slideUp 0.6s ease-out;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Print styles for resume */
+@media print {
+  .section {
+    @apply py-6;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    @apply bg-white;
+  }
+}
