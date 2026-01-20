@@ -6,7 +6,7 @@
         <h1 class="text-5xl md:text-6xl lg:text-7xl mb-4 text-harvard-navy">
           Jezreel Gatmaitan
         </h1>
-        <p class="text-xl text-harvard-gray mb-2">Metro Manila, Philippines</p>
+        <p class="text-xl text-harvard-gray mb-2">General Santos City, Philippines</p>
         <p class="text-lg text-harvard-gray italic">5 Years of Experience in Full-Stack Development</p>
       </div>
       

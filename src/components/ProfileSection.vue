@@ -40,7 +40,7 @@
             </svg>
           </h1>
           
-          <p class="text-base text-harvard-gray dark:text-gray-300 mb-1 transition-colors duration-300">Metro Manila, Philippines</p>
+          <p class="text-base text-harvard-gray dark:text-gray-300 mb-1 transition-colors duration-300">General Santos City, Philippines</p>
           <p class="text-base text-harvard-navy dark:text-white mb-3 transition-colors duration-300">Software Engineer</p>
           
           <!-- Action Buttons -->
