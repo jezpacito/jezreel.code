@@ -13,7 +13,11 @@
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">React</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Next.js</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Vue.js</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Vue.js + Capacitor</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Tailwind CSS</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sass</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Bootstrap</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">HTML and CSS</span>
           </div>
         </div>
         

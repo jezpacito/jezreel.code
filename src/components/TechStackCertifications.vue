@@ -14,9 +14,12 @@
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">TypeScript</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">ReactJS</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">VueJS</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Vue.js + Capacitor</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">jQuery</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Material UI</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Bootstrap</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sass</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">HTML and CSS</span>
             </div>
           </div>
           
@@ -42,6 +45,7 @@
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">AWS Services</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Docker</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">GIT</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">GitHub Actions</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PhpUnit Testing</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Payment Integration</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">API Integration</span>

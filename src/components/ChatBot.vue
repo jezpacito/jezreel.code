@@ -140,7 +140,7 @@ const sendQuickMessage = (action: string) => {
     } else if (action === 'Contact info') {
       response = 'You can reach me at jezreelgatmaitan.wrk@gmail.com or connect on LinkedIn!'
     } else if (action === 'Resume') {
-      response = 'You can download my resume using the "Download Resume" button in the profile section!'
+      response = 'You can download my resume using the "Download Résumé" button in the profile section, or click here: /jezreel-gatmaitan-fullstack-developer-resume.pdf'
     }
     
     messages.value.push({

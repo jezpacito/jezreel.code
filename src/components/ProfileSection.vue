@@ -51,8 +51,12 @@
             <a href="mailto:jezreelgatmaitan.wrk@gmail.com" class="px-4 py-2 border border-harvard-navy/30 dark:border-gray-600 dark:text-gray-200 rounded-sm hover:border-harvard-crimson dark:hover:border-red-400 transition-colors">
               Send Email
             </a>
-            <a href="/resume.pdf" download class="px-4 py-2 bg-harvard-crimson dark:bg-red-600 text-white rounded-sm hover:bg-harvard-navy dark:hover:bg-red-700 transition-colors">
-              Download Resume
+            <a 
+              href="/jezreel.code/jezreel-gatmaitan-fullstack-developer-resume.pdf" 
+              target="_blank"
+              class="px-4 py-2 bg-harvard-crimson dark:bg-red-600 text-white rounded-sm hover:bg-harvard-navy dark:hover:bg-red-700 transition-colors"
+            >
+              View Resume
             </a>
           </div>
         </div>
@@ -90,5 +94,6 @@ const animateProfile = () => {
     isAnimating.value = false
   }, 1000)
 }
+
 </script>
 
