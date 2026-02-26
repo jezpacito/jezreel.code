@@ -17,6 +17,8 @@
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Tailwind CSS</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sass</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Bootstrap</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Ant Design</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Axios</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">HTML and CSS</span>
           </div>
         </div>
@@ -29,8 +31,12 @@
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Python</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PHP</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Horizon</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Package Development</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PostgreSQL</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">MySQL</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">MongoDB</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PHPUnit</span>
           </div>
         </div>
         
@@ -42,6 +48,12 @@
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Docker</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Kubernetes</span>
             <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">GitHub Actions</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">CI/CD</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sentry</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Debugbar</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Dusk</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Stripe</span>
+            <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Plaid</span>
           </div>
         </div>
       </div>

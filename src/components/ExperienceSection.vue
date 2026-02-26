@@ -18,12 +18,19 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const experience = ref([
+interface Experience {
+  title: string
+  company: string
+  year: string
+  description: string
+}
+
+const experience = ref<Experience[]>([
   {
-    title: 'Freelance Software Developer',
-    company: 'Self-Employed',
+    title: 'Software Engineer',
+    company: 'More Telecom (Emapta)',
     year: 'July 2024 - Present',
-    description: 'Providing custom software solutions, web development, and technical consulting services to clients. Building full-stack applications and offering mentorship to aspiring developers.'
+    description: 'Maintaining full-stack systems for customer-facing websites and internal tools in the telco industry. Orchestrating backend services and consuming Vocus APIs to support frontend requirements, while implementing ABB integrations across multiple concurrent projects.'
   },
   {
     title: 'Software Engineer',

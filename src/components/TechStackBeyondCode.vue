@@ -18,6 +18,8 @@
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">jQuery</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Material UI</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Bootstrap</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Ant Design</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Axios</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sass</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">HTML and CSS</span>
             </div>
@@ -29,6 +31,8 @@
             <div class="flex flex-wrap gap-1.5">
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PHP</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Horizon</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Package Development</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Nova</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Voyager</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">NodeJS</span>
@@ -46,9 +50,17 @@
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Docker</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">GIT</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">GitHub Actions</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">CI/CD</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">PhpUnit Testing</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Dusk</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Laravel Debugbar</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Sentry</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Stripe</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Plaid</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Veratad (Verification)</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Payment Integration</span>
               <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">API Integration</span>
+              <span class="skill-pill dark:bg-gray-700 dark:text-gray-200 dark:border-gray-600">Hostinger</span>
             </div>
           </div>
         </div>
