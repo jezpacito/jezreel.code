@@ -2,42 +2,90 @@
   {
     "name": "ClientWise Portal",
     "description": "A cloud-based platform designed to modernize family law practice management. It provides lawyers and clients with smart intake tools that simplify the collection of case information, reduce paperwork, and improve communication. By digitizing processes such as estate division, custody arrangements, and evidence timelines, the system helps legal teams work more efficiently while giving clients a clearer, more structured way to participate in their cases.",
-    "tech": ["Laravel", "React Hooks", "Passport", "Stripe", "Plaid", "Intro.js", "MySQL", "Docker", "PHP", "PHPUnit", "Tailwind CSS"],
+    "tech": [
+      "Laravel",
+      "React Hooks",
+      "Passport",
+      "Stripe",
+      "Plaid",
+      "Intro.js",
+      "MySQL",
+      "Docker",
+      "PHP",
+      "PHPUnit",
+      "Tailwind CSS"
+    ],
     "link": "https://clientwiseportal.com/",
     "linkText": "clientwiseportal.com"
   },
   {
     "name": "Homecare Management App",
     "description": "Similar to a job portal but focused solely on home care nursing in the UK. This includes storing personal data of users with Google Map implementation for location verification.",
-    "tech": ["PHP", "React.js", "Ant Design", "Bootstrap", "Laravel", "PHPUnit", "Git", "MySQL", "HTML & CSS", "jQuery", "Axios", "JavaScript"],
+    "tech": [
+      "PHP",
+      "React.js",
+      "Ant Design",
+      "Bootstrap",
+      "Laravel",
+      "PHPUnit",
+      "Git",
+      "MySQL",
+      "HTML & CSS",
+      "jQuery",
+      "Axios",
+      "JavaScript"
+    ],
     "link": "#",
     "linkText": "View Project"
   },
   {
     "name": "Region 12 Online Processing Platform",
     "description": "A government online platform that manages sales promotion and other services catering to all users/businesses in region 12.",
-    "tech": ["Laravel", "PHP", "MySQL", "JavaScript", "Bootstrap"],
+    "tech": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "Bootstrap"
+    ],
     "link": "#",
     "linkText": "View Project"
   },
   {
     "name": "Job Portal System",
     "description": "An online platform designed to connect job seekers with employers in a streamlined and efficient way. It provides a centralized space where candidates can create profiles, upload resumes, and search for opportunities that match their skills and interests.",
-    "tech": ["Laravel", "jQuery", "JavaScript", "MVC", "PHPUnit", "Bootstrap"],
+    "tech": [
+      "Laravel",
+      "jQuery",
+      "JavaScript",
+      "MVC",
+      "PHPUnit",
+      "Bootstrap"
+    ],
     "link": "#",
     "linkText": "View Project"
   },
   {
     "name": "HRIS - Human Resource Information System",
     "description": "A centralized platform that manages employee data, payroll, and attendance. It automates salary computation based on time logs, overtime, and leave records, while keeping employee profiles organized.",
-    "tech": ["Laravel", "Vue.js", "JavaScript", "jQuery", "Tailwind CSS"],
+    "tech": [
+      "Laravel",
+      "Vue.js",
+      "JavaScript",
+      "jQuery",
+      "Tailwind CSS"
+    ],
     "link": "#",
     "linkText": "View Project"
   },
   {
     "name": "POS System for Small Business",
     "description": "A digital solution that combines sales, inventory, and customer management into one platform. Instead of relying on manual cash registers or spreadsheets, the system automates transactions, tracks stock levels, and records customer purchases. This helps small businesses save time, reduce errors, and gain better visibility into their daily operations.",
-    "tech": ["Nuxt.js", "Laravel", "Tailwind CSS"],
+    "tech": [
+      "Nuxt.js",
+      "Laravel",
+      "Ant Design"
+    ],
     "link": "#",
     "linkText": "View Project"
   }
