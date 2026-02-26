@@ -24,7 +24,7 @@
             :class="{ 'animate-bounce': isAnimating }"
           >
             <img 
-              src="/profile.png" 
+              src="	https://jezpacito.github.io/jezreel.code/profile.png" 
               alt="Jez Gatmaitan"
               class="w-40 h-full object-cover transition-transform duration-500 hover:scale-110 hover:rotate-2"
             />
